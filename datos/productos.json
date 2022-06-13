@@ -1,0 +1,135 @@
+[
+    {
+        "id": 1,
+        "stock":100,
+        "cantidadEnCarrito":0,
+        "enCarrito" : false,
+        "nombre": "Leche",
+        "marca": "La Serenisima",
+        "precio": 130,
+        "src": "imagenes/serenisima.jpg",
+        "descripcion": "Leche entera La Serenisima primera calidad 1L"
+    },
+    {
+        "id": 2,
+        "stock":100,
+        "cantidadEnCarrito":0,
+        "enCarrito"  : false,
+        "nombre": "Leche",
+        "marca": "Las Tres Niñas",
+        "precio": 110,
+        "src": "imagenes/tresninas.jpg",
+        "descripcion": "Leche entera Tres niñas 1L"
+    },
+    {
+        "id": 3,
+        "stock":100,
+        "cantidadEnCarrito":0,
+        "enCarrito"  : false,
+        "nombre": "Leche",
+        "marca": "Ilolay",
+        "precio": 120,
+        "src": "imagenes/ilolay.jpg",
+        "descripcion": "Leche descremada en caja Ilolay 1L"
+    },
+    {
+        "id": 4,
+        "stock":100,
+        "cantidadEnCarrito":0,
+        "enCarrito"  : false,
+        "nombre": "Cereales",
+        "marca": "Zucaritas",
+        "precio": 400,
+        "src": "imagenes/zucaritas.jpg",
+        "descripcion": "Cereales Zucaritas 300g"
+    },
+    {
+        "id": 5,
+        "stock":50,
+        "cantidadEnCarrito":0,
+        "enCarrito"  : false,
+        "nombre": "Pan",
+        "marca": "Fargo",
+        "precio": 200,
+        "src": "imagenes/panfargo.jpg",
+        "descripcion": "Pan lactal Fargo 560g"
+    },
+    {
+        "id": 6,
+        "stock":50,
+        "cantidadEnCarrito":0,
+        "enCarrito"  : false,
+        "nombre": "Pan",
+        "marca": "Bimbo",
+        "precio": 220,
+        "src": "imagenes/panbimbo.jpg",
+        "descripcion": "Pan lactal Bimbo 550g"
+    },
+    {
+        "id": 7,
+        "stock":100,
+        "cantidadEnCarrito":0,
+        "enCarrito"  : false,
+        "nombre": "Fideos",
+        "marca": "Don Vicente",
+        "precio": 200,
+        "src": "imagenes/fideosvicente.jpg",
+        "descripcion": "Fideos Don Vicente Tallarin 500g"
+    },
+    {
+        "id": 8,
+        "stock":200,
+        "cantidadEnCarrito":0,
+        "enCarrito"  : false,
+        "nombre": "Arroz",
+        "marca": "Gallo",
+        "precio": 140,
+        "src": "imagenes/arrozgallo.jpg",
+        "descripcion": "Arroz Gallo Oro 1Kg"
+    },
+    {
+        "id": 9,
+        "stock":200,
+        "cantidadEnCarrito":0,
+        "enCarrito"  : false,
+        "nombre": "Arroz",
+        "marca": "Marolio",
+        "precio": 100,
+        "src": "imagenes/arrozmarolio.jpg",
+        "descripcion": "Arroz Marolio 500g"
+    },
+    {
+        "id": 10,
+        "stock":200,
+        "cantidadEnCarrito":0,
+        "enCarrito"  : false,
+        "nombre": "Aceite",
+        "marca": "Cocinero",
+        "precio": 280,
+        "src": "imagenes/aceitcocinero.jpg",
+        "descripcion": "Aceite Cocinero Puro 1L"
+    },
+    {
+        "id": 11,
+        "stock":200,
+        "cantidadEnCarrito":0,
+        "enCarrito"  : false,
+        "nombre": "Cafe",
+        "marca": "Cabrales",
+        "precio": 240,
+        "src": "imagenes/cafecab.jpg",
+        "descripcion": "Cafe Torrado Cabrales 300g"
+    },
+    {
+        "id": 12,
+        "stock":200,
+        "cantidadEnCarrito":0,
+        "enCarrito"  : false,
+        "nombre": "Manteca",
+        "marca": "La Serenisima",
+        "precio": 180,
+        "src": "imagenes/mantecasere.jpg",
+        "descripcion": "Manteca La Serenisima 100g"
+    }
+    
+]

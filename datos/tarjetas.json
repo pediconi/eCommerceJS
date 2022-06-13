@@ -1,0 +1,22 @@
+[
+    {
+        "id":1 , 
+        "concepto": "efectivo", 
+        "src":"imagenes/efectivo.png"
+    }, 
+    {
+        "id":2 , 
+        "concepto": "visa",
+        "src":"imagenes/visa.png"
+    }, 
+    {
+        "id":3 , 
+        "concepto": "master",
+        "src":"imagenes/master.png"
+        } , 
+    {
+        "id":4 , 
+        "concepto": "cabal",
+        "src":"imagenes/cabal.jpg"
+    }
+]
